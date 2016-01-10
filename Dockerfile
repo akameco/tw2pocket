@@ -8,4 +8,4 @@ ADD package.json $PROJECT/package.json
 RUN npm install
 
 ADD . $PROJECT
-CMD ["node", "index.js"]
+CMD ["npm", "start"]

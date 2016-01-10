@@ -4,6 +4,7 @@
   "description": "If this app find link at twitter stream, share with pocket the link.",
   "main": "lib/index.js",
   "scripts": {
+    "start": "node lib/index.js",
     "test": "ava"
   },
   "keywords": [
