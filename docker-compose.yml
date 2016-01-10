@@ -1,0 +1,4 @@
+tw2pocket:
+  build: .
+  env_file: .env
+  command: 'node index.js'
