@@ -12,5 +12,9 @@
     "share"
   ],
   "author": "akameco",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.67.0",
+    "twit": "^2.1.1"
+  }
 }
