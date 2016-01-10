@@ -20,4 +20,3 @@ function save(url, key, accessToken) {
 }
 
 module.exports = save;
-

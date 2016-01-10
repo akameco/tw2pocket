@@ -23,4 +23,3 @@ userStream.on('tweet', tweet => {
     save(url).then(v => console.log('saved'));
   }
 });
-
