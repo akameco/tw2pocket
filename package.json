@@ -1,0 +1,16 @@
+{
+  "name": "tw2pocket",
+  "version": "0.0.1",
+  "description": "If this app find link at twitter stream, share with pocket the link.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "twitter",
+    "pocket",
+    "share"
+  ],
+  "author": "akameco",
+  "license": "MIT"
+}
